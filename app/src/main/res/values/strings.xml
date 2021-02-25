@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SenseIt</string>
+    <string name="title">SenseIt</string>
+    <string name="subtitle">Lagesensor</string>
+    <string name="currentValue">Aktueller Wert:</string>
+    <string name="x">x:</string>
+    <string name="y">y:</string>
+    <string name="z">z:</string>
 </resources>
